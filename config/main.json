@@ -776,5 +776,5 @@
     { "addr": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac", "name": "BCAP", "decimals": 0 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
-  "defaultPair": { "token": "DAI", "base": "ETH" }
+  "defaultPair": { "token": "DRGN", "base": "ETH" }
 }
